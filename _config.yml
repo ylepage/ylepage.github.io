@@ -1,0 +1,5 @@
+collections:
+  news:
+    output: true
+  events:
+    output: true
